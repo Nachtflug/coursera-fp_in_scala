@@ -1,4 +1,4 @@
-[info] Updating {file:/D:/Fp%20in%20Scala/patmat/project/}patmat-build...
+[info] Updating {file:/C:/Users/tripp.hu/Documents/GitHub/coursera-fp_in_scala/patmat/project/}patmat-build...
 [debug] :: resolving dependencies :: default#patmat-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -3935,19 +3935,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.7!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 3908ms :: artifacts dl 268ms
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT compile produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-compile.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT runtime produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-runtime.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT test produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-test.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT provided produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-provided.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT optional produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-optional.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT compile-internal produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-compile-internal.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT runtime-internal produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-runtime-internal.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT test-internal produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-test-internal.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT plugin produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-plugin.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT sources produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-sources.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT docs produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-docs.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT pom produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-pom.xml
-[debug] 	report for default#patmat-build;0.1-SNAPSHOT scala-tool produced in D:\Fp in Scala\patmat\project\target\resolution-cache\reports\default-patmat-build-scala-tool.xml
-[debug] 	resolve done (3908ms resolve - 268ms download)
+[debug] :: resolution report :: resolve 2665ms :: artifacts dl 180ms
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT compile produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-compile.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT runtime produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-runtime.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT test produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-test.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT provided produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-provided.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT optional produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-optional.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT compile-internal produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-compile-internal.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-runtime-internal.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT test-internal produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-test-internal.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT plugin produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-plugin.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT sources produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-sources.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT docs produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-docs.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT pom produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-pom.xml
+[debug] 	report for default#patmat-build;0.1-SNAPSHOT scala-tool produced in C:\Users\tripp.hu\Documents\GitHub\coursera-fp_in_scala\patmat\project\target\resolution-cache\reports\default-patmat-build-scala-tool.xml
+[debug] 	resolve done (2665ms resolve - 180ms download)
 [info] Done updating.
