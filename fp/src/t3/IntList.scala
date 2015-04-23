@@ -1,0 +1,28 @@
+package t3
+
+import java.util.NoSuchElementException
+
+/**
+ * Created by tripp.hu on 4/3/2015.
+ */
+trait List[T] {
+  def isEmpty: Boolean
+  def head: T
+  def tail: List[T]
+  def nth(n: Int): T
+}
+
+class Cons[T](val head: T, val tail: List[T]) extends List[T]{
+  def isEmpty = false
+  def nth(n: Int): T =
+    if(tail.isEmpty) throw new IndexOutOfBoundsException("Cons.nth")
+    else if(n < 0) tail.nth(n - 1)
+    else head
+}
+
+class Nil[T] extends List[T]{
+  def isEmpty = true
+  def head = throw new NoSuchElementException("Nil.head")
+  def tail = throw new NoSuchElementException("Nil.tail")
+  def nth(n: Int) = throw new IndexOutOfBoundsException("Nil.nth")
+}
