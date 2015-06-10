@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jline-2.121">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/patmat/lib_managed/jars/jline/jline/jline-2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
